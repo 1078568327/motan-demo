@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: motan-server
+
+server:
+  port: 8080
+  tomcat:
+    uri-encoding: UTF-8
+
+logging:
+  level:
+    root: info
